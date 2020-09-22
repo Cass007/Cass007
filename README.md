@@ -9,5 +9,6 @@ I'm passionate about solving problems and presenting solutions. I'm always open 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Will%20Almeida-03bb85?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/willianjuniore/)](https://www.linkedin.com/in/willianjuniore/) 
 ![Gmail Badge](https://img.shields.io/badge/-castieel07@gmail.com-03bb85?style=flat-square&logo=Gmail&logoColor=white&link=mailto:castieel07@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cass007)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Cass007's github stats](https://github-readme-stats.vercel.app/api?username=Cass007&show_icons=true&theme=vue)
