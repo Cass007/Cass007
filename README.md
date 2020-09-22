@@ -1,4 +1,4 @@
-# Thecastieel
+# Will
 CTO @Gregarious Inc
 
 I've been a development student at @TRYBE since 2020. 💻🚀
